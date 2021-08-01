@@ -1,6 +1,6 @@
 # python -m unittest tests.test_operations
 import unittest
-from src.arithmetic import Arithmetic
+from arithmetic import Arithmetic
 
 class TestArithmeticOperations(unittest.TestCase):
 
